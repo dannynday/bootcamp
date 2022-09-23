@@ -1,8 +1,9 @@
 # bootcamp
 ## number one
 ---
-bootcamp objectif
+##bootcamp objectif
+
 learn this new financial system
 
-###job 
+##job 
 have no option for now. maybe after this bootcamp
